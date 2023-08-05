@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: 'tye',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'gh_3f79be0876d1',
+      id: 'o04pK6zjzEt31PQMq3VOsXPH-a2M',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'beAdzKe2cR7-_WfC3DDZVo9H527Gu3C3M4K_9lMUJgw',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -51,13 +51,13 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: '	beAdzKe2cR7-_WfC3DDZVo9H527Gu3C3M4K_9lMUJgw',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'o04pK6zjzEt31PQMq3VOsXPH-a2M',
     }
   ],
 
